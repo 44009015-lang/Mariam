@@ -1,0 +1,39 @@
+body{
+	background-color: pink;
+}
+
+
+p
+{
+	color: maroon;
+	background-color: white;
+	size: 2em;
+}
+
+h1
+{
+	color: darkblue;
+
+}
+h2
+{
+	color: white;
+	
+}
+
+
+.special
+{
+	background-color: lightpink;
+}
+
+
+div
+{
+	background-color: whitesmoke;
+	border: 4px white solid ;
+	border-radius: 35px;
+	width: 75%;
+	height: 150px;
+
+}
